@@ -4,4 +4,5 @@ I am a Professor of Computer Science and a Cybersecurity Researcher with over 15
 
 ## 🗂 Professional Profile
 
-You can view my detailed Professional Profile, which includes my contact information, CV, research statement, and teaching philosophy.
+You can view my detailed [Professional Profile](https://github.com/amaalouf38/Professional-Profile), which includes my contact information, CV, research statement, and teaching philosophy.
+
